@@ -1,3 +1,5 @@
+
+
 # About Me
 
 ## Overview
@@ -18,4 +20,4 @@ Here are some projects I'm currently working on or have contributed to:
 - [Electronics]: working with InHome automation with #Arduino. 
 
 ## Contact
-Feel free to reach out to me via [email](mailto:cybercat101@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cybercat101).
+Feel free to reach out to me via Email-to: cybercat101@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cybercat101).
